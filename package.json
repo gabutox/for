@@ -1,0 +1,21 @@
+{
+  "name": "for",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gabutox/for#readme",
+  "bugs": {
+    "url": "https://github.com/gabutox/for/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabutox/for.git"
+  },
+  "license": "MIT",
+  "author": "Gabriel Alaniz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
